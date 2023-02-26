@@ -9,7 +9,7 @@ models = pd.read_csv(os.path.join(__location__, 'CHARTS/categories-subcategories
 
 
 
-def colorist(file): #Function to switch Colors to Color Codes
+def colorist(file): # Function to switch Colors to Color Codes
     
     fake_id_parts = pd.DataFrame(file, columns = ['U_COLOR'])
     l = len(fake_id_parts)
@@ -58,13 +58,13 @@ def colorist(file): #Function to switch Colors to Color Codes
     print('RESULT SAVED AS COLORIST_result.csv')
     print('============================================================')
 
-def sku_gen(column, file, sep): #main function for Sku generatiobn
+def sku_gen(column, file, sep): #main function for SKU Generation
     
-    data_column = pd.DataFrame(file, columns= [column], dtype = str) #taking one column from file to use as main reference for Sku Generation
+    data_column = pd.DataFrame(file, columns= [column], dtype = str) #taking one column from file to use as main reference for SKU Generation
     index = 0
     
     print('============================================================')
-    print(str(len(data_column)) + ' ITEMS HAS BEEN RECIVED. ' + column + ' GENERATION IS STARTING')
+    print(str(len(data_column)) + ' ITEMS HAS BEEN RECEIVED. ' + column + ' GENERATION IS COMMENCING')
     print('============================================================')
     
     
@@ -124,10 +124,8 @@ def sku_gen(column, file, sep): #main function for Sku generatiobn
     
 file_str = 'sku_gen_template.csv'
 
+
 #description_edit(immport_file)
-
-
-
 immport_file = pd.read_csv(os.path.join(__location__, file_str))
 
 
@@ -151,7 +149,7 @@ immport_file = pd.read_csv(os.path.join(__location__, 'Results/U_LOGO_result.csv
 immport_file = immport_file[immport_file['ItemCode'] != 'USED'] #delete parent items
 immport_file.to_csv('Results/final'+'_result.csv') #save results
 print('===================================')
-print('GENERATION IS DONE')
+print('GENERATION IS COMPLETED')
 print('===================================')
 
 immport_file = pd.read_csv(os.path.join(__location__, 'Results/final_result.csv'))
@@ -164,7 +162,4 @@ for col in immport_file:
                 immport_file.drop(col,inplace=True, axis=1)
 
 
-
-
 immport_file.to_csv(file_str[:-4] + '_result.csv')
-
