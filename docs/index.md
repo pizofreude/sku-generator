@@ -71,4 +71,4 @@ So if you've found my open source contributions helpful and want to show your su
 
 Cheers!
 
-![My Ko-Fi Page](https://ko-fi.com/pizofreude)
+[My Ko-Fi Page](https://ko-fi.com/pizofreude)
