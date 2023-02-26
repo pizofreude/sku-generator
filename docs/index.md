@@ -76,10 +76,10 @@ Cheers!
 <a href="https://ko-fi.com/pizofreude">My Ko-Fi Page
 </a>
 
-<a href="https://ko-fi.com/pizofreude">
+    <a href="https://ko-fi.com/pizofreude">
 
-<img src="./../img/kofi.gif" alt="Ko-Fi Badge">
+    <img src="./../img/kofi.gif" alt="Ko-Fi Badge">
 
-</a>
+    </a>
 
 </p>
