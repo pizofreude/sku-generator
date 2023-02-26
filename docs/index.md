@@ -72,8 +72,13 @@ So if you've found my open source contributions helpful and want to show your su
 Cheers!
 
 <p align="center">
-<a >My Ko-Fi Page</a>
-        <a href="https://ko-fi.com/pizofreude">
-            <img src="./../img/kofi.gif" alt="Ko-Fi Badge">
-        </a>
+
+<a href="https://ko-fi.com/pizofreude">My Ko-Fi Page</a>
+
+    <a href="https://ko-fi.com/pizofreude">
+
+        <img src="./../img/kofi.gif" alt="Ko-Fi Badge">
+
+    </a>
+
 </p>
