@@ -73,7 +73,11 @@ Cheers!
 
 
 <p style="text-align: center;">
-  <a href="https://ko-fi.com/pizofreude">My Ko-Fi Page</a>
+  <a href="">My Ko-Fi Page</a>
 </p>
 
-
+<p align="center">
+<a href="https://ko-fi.com/pizofreude">
+    <img src="https://komarev.com/ghpvc/?username=Pizofreude">
+</a>
+</p>
