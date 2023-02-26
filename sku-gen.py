@@ -7,8 +7,6 @@ __location__ = os.path.realpath(os.path.join(os.getcwd(), os.path.dirname(__file
 colors = pd.read_csv(os.path.join(__location__, 'CHARTS/colors.csv')) # Importing Chart of Colors
 models = pd.read_csv(os.path.join(__location__, 'CHARTS/categories-subcategories.csv')) # Importing Chart of Models
 
-
-
 def colorist(file): # Function to switch Colors to Color Codes
     
     fake_id_parts = pd.DataFrame(file, columns = ['U_COLOR'])
