@@ -71,13 +71,8 @@ So if you've found my open source contributions helpful and want to show your su
 
 Cheers!
 
-
-<p style="text-align: center;">
-  <a href="">My Ko-Fi Page</a>
-</p>
-
 <p align="center">
-    <a href="https://ko-fi.com/pizofreude">
+<a href="https://ko-fi.com/pizofreude">My Ko-Fi Page
     <img src="https://komarev.com/ghpvc/?username=Pizofreude">
-    </a>
+</a>
 </p>
