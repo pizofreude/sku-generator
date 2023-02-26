@@ -71,6 +71,6 @@ So if you've found my open source contributions helpful and want to show your su
 
 Cheers!
 
-<center>[My Ko-Fi Page](https://ko-fi.com/pizofreude)</center>
+[My Ko-Fi Page](https://ko-fi.com/pizofreude) {: .text-center}
 
 
