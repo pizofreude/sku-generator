@@ -77,7 +77,7 @@ Cheers!
 </p>
 
 <p align="center">
-<a href="https://ko-fi.com/pizofreude">
+    <a href="https://ko-fi.com/pizofreude">
     <img src="https://komarev.com/ghpvc/?username=Pizofreude">
 </a>
 </p>
