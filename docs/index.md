@@ -75,6 +75,6 @@ Cheers!
 
 <p align="center">
 <a href="https://ko-fi.com/pizofreude">
-    <img src="./../img/kofi.gif" alt="Ko-Fi Badge">
+    <img src="./img/kofi.gif" alt="Ko-Fi Badge">
 </a>
 </p>
