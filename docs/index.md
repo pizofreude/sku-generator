@@ -75,7 +75,13 @@ Do not change the header's name as these are hard-coded in sku-gen.py script.
 
 You can find the script and more information about how to use it in the README.md file on the repository's main page:
 
-![SKU Generator Repository](https://github.com/pizofreude/sku-generator)
+![()
+
+<p align="center">
+<a href="https://github.com/pizofreude/sku-generator">SKU Generator Repository]
+    <img src="./img/Github_icon-icons.com_66788.png" alt="GitHub Badge">
+</a>
+</p>
 
 Feel free to use and modify this script as needed for your own projects. If you have any questions or suggestions, please don't hesitate to reach out!
 
