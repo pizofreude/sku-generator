@@ -18,7 +18,7 @@ description: >- # this means to ignore new lines until "author:"
 author: Pizofreude
 
 # Favicon
-favicon: /favicon.ico
+# favicon: /favicon.ico
 
 
 ###############################################
