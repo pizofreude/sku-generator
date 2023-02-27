@@ -17,6 +17,10 @@ description: >- # this means to ignore new lines until "author:"
 # Your name to show in the footer
 author: Pizofreude
 
+# Favicon
+favicon: /favicon.ico
+
+
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
