@@ -1,6 +1,7 @@
 ---
 layout: default
 title: SKU Generator
+author: Pizofreude
 ---
 
 # The Origin Tree
