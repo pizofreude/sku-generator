@@ -131,8 +131,8 @@ social-network-links:
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 theme: jekyll-theme-dark
-dark_mode_background: #000000
-dark_mode_text: #FFFFFF
+dark_mode_background: "#000000"
+dark_mode_text: "#FFFFFF"
 
 navbar-col: "#EAEAEA"
 navbar-text-col: "#404040"
