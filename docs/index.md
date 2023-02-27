@@ -3,7 +3,9 @@ layout: default
 title: SKU Generator
 author: Pizofreude
 ---
+
 <link rel="shortcut icon" type="image/x-icon" href="./img/favicon.ico">
+
 # The Origin Tree
 
 The project tree structure is as follows:
