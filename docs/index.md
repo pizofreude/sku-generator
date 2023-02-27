@@ -2,8 +2,9 @@
 layout: default
 title: SKU Generator
 author: Pizofreude
-<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 ---
+
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
 # The Origin Tree
 
