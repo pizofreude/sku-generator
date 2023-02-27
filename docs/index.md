@@ -6,7 +6,8 @@ title: SKU Generator
 <!-- <link rel="shortcut icon" type="image/x-icon" href="favicon.ico"> -->
 <!-- <link rel="shortcut icon" href="/favicon.ico" /> -->
 <!-- <link rel="shortcut icon" href="favicon.ico" /> -->
-<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico?">
+<!-- <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico?"> -->
+<link rel="shortcut icon" type="image/png" href="/favicon.png">
 
 # The Origin Tree
 
