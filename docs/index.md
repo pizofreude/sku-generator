@@ -61,6 +61,24 @@ The hypens are automatically generated in any case. Next, the priorities in orde
 
 Feel free to substitute this header name according to your use specific criteria.
 
+## SKU Generator GitHub Repository
+
+Welcome to my SKU Generator GitHub Repository!
+
+This repository contains a Python script that generates unique Stock Keeping Units (SKUs) for products using various product attributes such as color, size, and model.
+
+The SKU Generator script takes in a CSV file containing the product data and outputs a new CSV file with the generated SKUs.
+
+Modify the properties in categories-subcategories.csv and colors.csv according to your requirements.
+
+Do not change the header's name as these are hard-coded in sku-gen.py script.
+
+You can find the script and more information about how to use it in the README.md file on the repository's main page:
+
+![SKU Generator Repository](https://github.com/pizofreude/sku-generator)
+
+Feel free to use and modify this script as needed for your own projects. If you have any questions or suggestions, please don't hesitate to reach out!
+
 ## Final Words
 
 Open source contributions are an essential part of the tech community, and they help create the innovative tools and software that we all rely on. As someone who has benefited from my contributions, I'm sure you know the amount of time and effort that goes into maintaining and improving open source projects.
