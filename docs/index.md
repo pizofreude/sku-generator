@@ -102,6 +102,8 @@ So if you've found my open source contributions helpful and want to show your su
 
 Cheers!
 
+Curated with :octicons-heart-fill-24:{ .heart } by [Pizofreude](https://github.com/pizofreude).
+
 <p align="center">
 <a href="https://ko-fi.com/pizofreude">
     <img src="./img/kofi.gif" alt="Ko-Fi Badge">
